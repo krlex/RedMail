@@ -35,5 +35,5 @@ You need to uncomment which Linux/FreeBSD OS you want, for exmaple:
 Third:
 `vagrant up`
 `vagrant ssh`
-`cd mail`
+`cd  /srv/mail`
 `bash iRedMail.sh`
